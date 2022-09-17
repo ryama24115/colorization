@@ -3,4 +3,4 @@ skimage
 numpy
 matplotlib
 argparse
-PIL
+Pillow
